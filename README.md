@@ -8,6 +8,7 @@ This project is focusing on analyzing trends in the movie industry using python.
 - [Visualizations](#visualizations)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
+- [Data analysis](#data-analysis)
 
 **Overview**
 This project analyzes movie trends in the industry using statistical methods and data visualization techniques. It includes:
@@ -20,6 +21,19 @@ This project analyzes movie trends in the industry using statistical methods and
 - Python: For data manipulation and analysis.
 - Pandas:For handling and cleaning data.
 - Matplotlib and Seaborn: For data visualization.
+
+ **Data analysis**
+  ```python
+  ##import the important libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+##read the data
+df = pd.read_csv("movies data.csv")
+df.head()
+```
 
 **Features**
 - Scatter plot analysis of gross income and budget
