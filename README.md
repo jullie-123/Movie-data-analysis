@@ -1,2 +1,34 @@
-# Movie-data-analysis
-To gain insights about a movie dataset 
+# Movies Analysis in the Entertainment Industry
+This project is focusing on analyzing trends in the movie industry using python. The analysis explores trends, understands the correlation between gross income and various variables to derive meaningful insights.
+
+**Table of contents**
+- [Overview](#overview)
+- [Technologies used](#technologies-used)
+- [Features](#features)
+- [Visualizations](#visualizations)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+
+**Overview**
+This project analyzes movie trends in the industry using statistical methods and data visualization techniques. It includes:
+- Cleaning and preprocessing the dataset.
+-Identifying the most prevalent movie genres.
+- To study the correlation between gross income and budget.
+- Discover the countries that dominate in the movie industry.
+
+**Technologies used**
+- Python: For data manipulation and analysis.
+- Pandas:For handling and cleaning data.
+- Matplotlib and Seaborn: For data visualization.
+
+**Features**
+- Scatter plot analysis of gross income and budget
+- Heatmap to analyze the correlation between gross income and other numeric variables.
+- Bar chart of most prevalent movie genres.
+- Bar chart of countries that dominate in the movie industry.
+
+**Visualizations**
+
+**Findings**
+
+**Recommendations**
